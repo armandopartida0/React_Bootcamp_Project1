@@ -1,0 +1,46 @@
+.BlankCard {
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    color: white;
+    border-radius: 10%;
+}
+
+.BlankCard-face {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    left: 78%;
+    top: 12%;
+}
+
+.BlankCard-title {
+    position: relative;
+    color: black;
+    top: 15%;
+    left: 15%;
+}
+
+.BlankCard-gallery {
+    position: relative;
+    color: black;
+    font-size: 15px;
+    left: 20%;
+    top: 0.8%;
+}
+
+.BlankCard-stories {
+    position: relative;
+    color: black;
+    font-size: 15px;
+    left: 30%;
+    top: -2%;
+}
+
+.BlankCard-types {
+    position: relative;
+    color: black;
+    top: 55%;
+    left: 20%;
+}

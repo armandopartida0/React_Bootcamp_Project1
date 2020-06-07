@@ -1,0 +1,48 @@
+.Card {
+    width: 800px;
+    height: 800px;
+}
+
+.Card-image {
+    width: inherit;
+    height: inherit;
+    border-radius: 10%;
+    position: absolute;
+    filter: brightness(60%);
+}
+
+.Card-company {
+    position: relative;
+    top: 5%;
+    left: 15%;
+    font-size: 24px;
+}
+
+.Card-beauty {
+    position: relative;
+    top: 30%;
+    left: 60%;
+    font: 46px;
+    width: 40%;
+    text-align: left;
+}
+
+.Card-desc {
+    position: relative;
+    font-size: 15px;
+    top: 33%;
+    left: 38%;
+}
+
+.Card-button {
+    position: relative;
+    top: 35%;
+    left: 60%;
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 16px;
+    background-color: #FB6E3B;
+    border-radius: 15px;
+}
